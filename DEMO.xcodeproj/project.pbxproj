@@ -13,6 +13,7 @@
 		813362561CB3B6A4003F26A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 813362551CB3B6A4003F26A3 /* Assets.xcassets */; };
 		813362591CB3B6A4003F26A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 813362571CB3B6A4003F26A3 /* LaunchScreen.storyboard */; };
 		813362611CB3BBA8003F26A3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 813362601CB3BBA8003F26A3 /* ViewController.swift */; };
+		813362631CB3BBE8003F26A3 /* fdghfghViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 813362621CB3BBE8003F26A3 /* fdghfghViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		813362581CB3B6A4003F26A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8133625A1CB3B6A4003F26A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		813362601CB3BBA8003F26A3 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		813362621CB3BBE8003F26A3 /* fdghfghViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = fdghfghViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		813362421CB3B6A4003F26A3 = {
 			isa = PBXGroup;
 			children = (
+				813362621CB3BBE8003F26A3 /* fdghfghViewController.swift */,
 				813362601CB3BBA8003F26A3 /* ViewController.swift */,
 				8133624D1CB3B6A4003F26A3 /* DEMO */,
 				8133624C1CB3B6A4003F26A3 /* Products */,
@@ -141,6 +144,7 @@
 				813362611CB3BBA8003F26A3 /* ViewController.swift in Sources */,
 				813362511CB3B6A4003F26A3 /* ViewController.swift in Sources */,
 				8133624F1CB3B6A4003F26A3 /* AppDelegate.swift in Sources */,
+				813362631CB3BBE8003F26A3 /* fdghfghViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
